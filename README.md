@@ -49,7 +49,7 @@ Optional: Images & icons (SVG/PNG)
 
 (Add your own screenshots here)
 
-![Portfolio Screenshot](assets/screenshot.png)
+![Portfolio Screenshot](https://jaya-surya-work.github.io/portfoilio/)
 
 🎯 How to Use / Run
 
